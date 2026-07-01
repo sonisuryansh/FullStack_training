@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+</head>
+<body>
+    <div align="center">
+    <h1 >Contact Form</h1>
+    <br>
+    <div>
+    <p>Fill out the form below to get in touch with us.</p>
+    </div>
+    <form action="action.php" method="post">
+        <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        </div>
+        <br>
+        <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        </div>
+        <br>
+        <div>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required>Text Here</textarea>
+        </div>  
+        <br>
+        <div>
+        <input type="submit" value="Send Message">
+        </div>
+    </form>
+    </div>
+</body>
+</html>
