@@ -1,15 +1,10 @@
-.container-fluid{
-            background-color: #f8f9fa;
-            padding: 20px;
-        }
-        .row{
-            margin-bottom: 20px;
-        }
-        .col-md-4{
-            text-align: center;
-        }
-        img{
-            max-width: 100%;
-            height: auto;
-            border-radius: 5px;
+
+        .my_first_row{
+            height: 140px;
+            background-color: #4400ff3f;
+        }   
+
+        .my_second_row{
+            height: 140px;
+            background-color: #4400ff3f;
         }
