@@ -57,3 +57,20 @@
                 alert("Invalid month number. Please enter a number between 1 and 12.");
             }
         }
+
+        // Checking the season it belong with simple discription
+
+        function seasonCheck(){
+             var monthNum = parseInt(prompt("Enter the number of the month (1-12):")); 
+            if(monthNum >= 3 && monthNum <= 5){
+                alert(" Spring");
+            }else if(monthNum >= 6 && monthNum <= 8){
+                alert("Summer.");
+            }else if(monthNum >= 9 && monthNum <= 11){
+                alert("Autumn.");
+            }else if(monthNum == 12 || monthNum == 1 || monthNum == 2){
+                alert("Winter.");
+            }else{
+                alert("Invalid month number. Please enter a number between 1 and 12.");
+            }
+        }
