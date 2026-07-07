@@ -322,9 +322,9 @@ function tvBilling() {
 
     if (tvType == "e") {
         document.getElementById("result8").innerHTML =
-            "<h3>Thank You! Visit Again.</h3>";
-        return;
+            "<h3>Thank You! Visit Again.</h3>";         return;
     }
+    
     if (tvType == "b") {
 
         tvName = "Black & White TV";

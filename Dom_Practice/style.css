@@ -1,0 +1,20 @@
+.blink
+{
+    animation: blink-animation 1s steps(2, start) infinite;
+    color: red;
+    font-weight: bold;
+
+}
+@keyframes blink-animation
+{
+    to
+    {
+        visibility : hidden;
+    }
+}
+
+.body_class {
+    transition: background-color 0.5s, color 0.5s;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }

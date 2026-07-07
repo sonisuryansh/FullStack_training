@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <p id="demo" class="demo1">This is a paragraph.</p>
+    <button onclick="changeText()" id="btn1">Click me</button>
+    <h2 class="my_class">Hello 1</h2>
+    <p class="my_class">Hello 2</p>
+    <div class="my_class">Hello 3</div>
+    <button onclick="changeToPositiveThoughts()" id="btn2">Change Text</button>
+
+    <h2>My List</h2>
+
+    <ul id="myList">
+        <li> Item 1</li>
+        <li> Item 2</li>
+    </ul>
+    <input type="text" id="itemInput" placeholder="Enter item">
+    <button id="addBtn">Add</button>
+
+    <h2>Mini To-Do List App Add Task </h2>
+
+    <ul id="myList">
+        <li> Walk</li>
+    </ul>
+    <input type="text" id="itemInput" placeholder="Enter item">
+    <button onclick="addItem()">Add</button>
+
+    <h2>My List</h2>
+
+    <ul id="myList">
+        <li> Item 1</li>
+        <li> Item 2</li>
+    </ul>
+    <input type="text" id="itemInput" placeholder="Enter item">
+    <button id="addBtn">Add</button>
+
+    <h2>Student List</h2>
+    <p>Enter a student name below and click "Add Student" to add it to the list.</p>
+
+    <!-- Input box for dynamic student name -->
+    <input type="text" id="studentName" placeholder="Enter student name">
+    <button id="addBtn">Add Student</button>
+    <button id="removeBtn">Remove Last</button>
+
+    <div style="float: right; margin: 10px;">
+        <select id="themeSelector" onchange="changeTheme()">
+            <option value="">Change Theme</option>
+            <option value="ocean">Ocean Blue</option>
+            <option value="sunset">Sunset Orange</option>
+            <option value="dark">Dark Mode</option>
+            <option value="forest">Forest Green</option>
+            <option value="light">Light Mode</option>
+        </select>
+    </div>
+
+    <h2>Hello BBD Students</h2>
+    <p>Enjoy learning DOM and styling with colors!</p>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
