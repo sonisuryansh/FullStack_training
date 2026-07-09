@@ -1,0 +1,18 @@
+.app-footer {
+  background: #102033;
+}
+
+.app-footer h4,
+.app-footer h5 {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.app-footer p,
+.app-footer li {
+  color: #dce6f2;
+}
+
+.app-footer hr {
+  border-color: rgba(255, 255, 255, 0.18);
+}

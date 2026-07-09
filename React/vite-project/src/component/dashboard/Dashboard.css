@@ -1,0 +1,40 @@
+.dashboard-page {
+  min-height: 65vh;
+}
+
+.dashboard-page h1 {
+  color: #102033;
+}
+
+.dashboard-page .lead {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.dashboard-btn {
+  background: #246bfe;
+  border: 0;
+  border-radius: 8px;
+  padding: 12px 28px;
+}
+
+.dashboard-card {
+  border: 0;
+  border-radius: 8px;
+  background: #ffffff;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(16, 32, 51, 0.14);
+}
+
+.dashboard-card h5 {
+  color: #5f6b7a;
+}
+
+.dashboard-card h2 {
+  color: #102033;
+  font-weight: 700;
+}

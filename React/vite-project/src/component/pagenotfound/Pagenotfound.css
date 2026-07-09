@@ -1,0 +1,19 @@
+.not-found-page {
+  min-height: 65vh;
+}
+
+.not-found-page h1 {
+  color: #d83b3b;
+}
+
+.not-found-page h2 {
+  color: #102033;
+  font-weight: 700;
+}
+
+.not-found-page .btn {
+  border-radius: 8px;
+  padding: 10px 22px;
+  background: #246bfe;
+  border: 0;
+}

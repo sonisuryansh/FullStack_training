@@ -1,0 +1,21 @@
+.app-navbar {
+  background: #102033;
+  box-shadow: 0 4px 16px rgba(16, 32, 51, 0.18);
+}
+
+.app-navbar .navbar-brand {
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.app-navbar .nav-link {
+  color: #dce6f2;
+  font-weight: 500;
+  margin-left: 12px;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.app-navbar .nav-link:hover {
+  color: #8fd6c7;
+  transform: translateY(-1px);
+}

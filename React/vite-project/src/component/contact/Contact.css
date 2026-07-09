@@ -1,0 +1,42 @@
+.contact-page {
+  min-height: 65vh;
+  background: #f7f9fc;
+}
+
+.contact-card {
+  border: 0;
+  border-radius: 8px;
+}
+
+.contact-card .card-body {
+  padding: 32px;
+}
+
+.contact-card h2 {
+  color: #102033;
+  font-weight: 700;
+}
+
+.contact-card label {
+  color: #42526b;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.contact-card .form-control {
+  border-radius: 8px;
+  border: 1px solid #d8e0ea;
+  padding: 10px 12px;
+}
+
+.contact-card .form-control:focus {
+  border-color: #246bfe;
+  box-shadow: 0 0 0 3px rgba(36, 107, 254, 0.14);
+}
+
+.contact-card .btn {
+  border: 0;
+  border-radius: 8px;
+  padding: 11px 16px;
+  background: #246bfe;
+}
