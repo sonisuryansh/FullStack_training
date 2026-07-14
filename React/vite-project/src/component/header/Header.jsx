@@ -1,14 +1,13 @@
-import React from 'react'
 import { Link } from 'react-router-dom'
 import './Header.css'
 
 export const Header = () => {
   return (
-     <nav className="navbar navbar-expand-lg navbar-dark app-navbar">
+     <nav className="navbar navbar-expand-lg navbar-light app-navbar">
       <div className="container">
 
         <Link className="navbar-brand fw-bold" to="/">
-          MyApp
+          <span className="brand-mark">✦</span> The Notebook
         </Link>
 
         <button
@@ -24,7 +23,7 @@ export const Header = () => {
 
             <li className="nav-item">
               <Link className="nav-link" to="/">
-                Dashboard
+                Journal
               </Link>
             </li>
 

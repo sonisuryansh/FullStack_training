@@ -1,4 +1,3 @@
-import React from 'react'
 import './Footer.css'
 
 export const Footer = () => {
@@ -13,19 +12,19 @@ export const Footer = () => {
             <h4>MyApp</h4>
 
             <p>
-              Building responsive and modern web applications with React.
+              A home for considered notes on creativity, design, and making.
             </p>
           </div>
 
           <div className="col-md-3">
 
-            <h5>Quick Links</h5>
+            <h5>Explore</h5>
 
             <ul className="list-unstyled">
 
-              <li>Dashboard</li>
-              <li>About</li>
-              <li>Contact</li>
+              <li>Latest stories</li>
+              <li>About the journal</li>
+              <li>Newsletter</li>
 
             </ul>
 
@@ -33,11 +32,11 @@ export const Footer = () => {
 
           <div className="col-md-3">
 
-            <h5>Contact</h5>
+            <h5>Say hello</h5>
 
-            <p>Email: support@myapp.com</p>
+            <p>hello@thenotebook.com</p>
 
-            <p>Phone: +91 9876543210</p>
+            <p>Made with care in India</p>
 
           </div>
 
