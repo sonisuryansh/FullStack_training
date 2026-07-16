@@ -1,0 +1,125 @@
+{
+  "contact": [
+    {
+      "f_name": "Rajeev",
+      "l_name": "Kumar",
+      "email_id": "rksinghdls@gmail.com",
+      "mobile_number": "7563811485",
+      "message": "Hi",
+      "id": "f_GNsn7_KB4"
+    },
+    {
+      "f_name": "Rajeev",
+      "l_name": "Kumar",
+      "email_id": "rksinghdls@gmail.com",
+      "mobile_number": "7563811485",
+      "message": "Hi",
+      "id": "mIIo-m35WLQ"
+    },
+    {
+      "f_name": "Rajeev",
+      "l_name": "Kumar",
+      "email_id": "rksinghdls@gmail.com",
+      "mobile_number": "7563811485",
+      "message": "Hi",
+      "id": "xUiLNIoDlIY"
+    },
+    {
+      "f_name": "Rajeev",
+      "l_name": "Kumar",
+      "email_id": "rksinghdls@gmail.com",
+      "mobile_number": "7563811485",
+      "message": "Hi",
+      "id": "RTIeQEElK1w"
+    },
+    {
+      "f_name": "Rajeev",
+      "l_name": "Kumar",
+      "email_id": "rksinghdls@gmail.com",
+      "mobile_number": "7563811485",
+      "message": "Hi",
+      "id": "i2412tD_0yI"
+    },
+    {
+      "f_name": "Rajeev",
+      "l_name": "Kumar",
+      "email_id": "rksinghdls@gmail.com",
+      "mobile_number": "",
+      "message": "Hello",
+      "id": "9uf0gq6zF3k"
+    },
+    {
+      "f_name": "Rajeev",
+      "l_name": "Kumar",
+      "email_id": "rksinghdls@gmail.com",
+      "mobile_number": "7563811485",
+      "message": "hi",
+      "id": "U8AaZGA2or0"
+    },
+    {
+      "f_name": "Sanjeev",
+      "l_name": "Lu,ar",
+      "email_id": "sanjeev@gmail.com",
+      "mobile_number": "756381485",
+      "message": "Hello",
+      "id": "qros_A6R_0Q"
+    },
+    {
+      "f_name": "Rakseh",
+      "l_name": "Kumar",
+      "email_id": "rakes@gmail.com",
+      "mobile_number": "8068968968",
+      "message": "Hi",
+      "id": "Kwjf5pb3NkE"
+    },
+    {
+      "f_name": "Rakseh",
+      "l_name": "Kumar",
+      "email_id": "rakes@gmail.com",
+      "mobile_number": "8068968968",
+      "message": "Hi",
+      "id": "9GDvRhX7TtY"
+    },
+    {
+      "f_name": "Rakseh",
+      "l_name": "Kumar",
+      "email_id": "rakes@gmail.com",
+      "mobile_number": "8068968968",
+      "message": "Hi",
+      "id": "uHyG4siBkVs"
+    },
+    {
+      "f_name": "Rajeev",
+      "l_name": "Kumar",
+      "email_id": "rksinghdls@gmail.com",
+      "mobile_number": "7563811485",
+      "message": "hi",
+      "id": "XoaDthWqdhk"
+    },
+    {
+      "f_name": "Sumit",
+      "l_name": "KUmar",
+      "email_id": "sumit@gmail.com",
+      "mobile_number": "75757575858",
+      "message": "hello",
+      "id": "g6v-ifeJjgo"
+    },
+    {
+      "f_name": "Rajeev",
+      "l_name": "Kumar",
+      "email_id": "rksinghdls@gmail.com",
+      "mobile_number": "7563811485",
+      "message": "hi",
+      "id": "dNrnt2RTTqU"
+    },
+    {
+      "f_name": "fsdf hjsdgf",
+      "l_name": "dhdkfgdsg",
+      "email_id": "Sidhdfh@gmail.com",
+      "mobile_number": "9193237",
+      "message": "sksnfd",
+      "id": "vkbLufV_9R8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
